@@ -1,5 +1,9 @@
 # Neural-Network-for-Image-and-Text-classification-
-Part of CMSC498L coursework. In this porject, we implement binary classification of Images and Movie Reviews by implementing standard strategies of Neural Network. The project contains the python notebook, which will give an in depth walkthrough through the steps adopted to train the model.
+Part of CMSC498L coursework. In this porject, we implement binary classification of Images and Movie Reviews by implementing fully connected Neural Network layers. The project contains the python notebook, which will give an in depth walkthrough through the steps adopted to train the model.
+
+Architecture of the network:
+1. Two Layers
+2. Number of hidden neurons = 7
 
 ***************************************************
 The repo contains :
